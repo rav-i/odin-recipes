@@ -1,1 +1,1 @@
-# odin-recipes
+Just learning web development!
